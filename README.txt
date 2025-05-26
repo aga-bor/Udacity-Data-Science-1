@@ -38,12 +38,16 @@ Key Insight
 
 Income inequality is strongly associated with poverty depth, health accessibility, and infrastructure services.
 
+Libraries Used
+The project was implemented using Python in a Jupyter Notebook environment.
+pandas – for data loading, manipulation, and exploration
+numpy – for numerical operations
+matplotlib – for visualizations
+seaborn – for enhanced statistical plots
+scikit-learn – for building and evaluating the classification model (Random Forest)
+
 Acknowledgments
 World Bank Open Data
-
 World Health Organization Indicators
-
-scikit-learn for modeling
-
 Jupyter Notebook for analysis and visualization
 
